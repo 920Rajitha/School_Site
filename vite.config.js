@@ -1,7 +1,8 @@
-import { defineConfig } from 'vite'
-import react from '@vitejs/plugin-react'
+import { defineConfig } from 'vite';
+import react from '@vitejs/plugin-react';
 
-// https://vite.dev/config/
+// Set base to your repo name path
 export default defineConfig({
+  base: '/School_Site/',
   plugins: [react()],
-})
+});
