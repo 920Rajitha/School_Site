@@ -1,17 +1,35 @@
-<<<<<<< HEAD
-# React + Vite
+# 🏫 Harnagala School Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive website for **Harnagala School** built with **React (Vite)** and **SQL Server** for database management.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Features
 
-## Expanding the ESLint configuration
+- Clean and interactive UI built with React & Vite  
+- Data management with SQL Server database  
+- Information about school, events, and announcements  
+- Easy to update and maintain content  
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# School_Site
-Haranagala National Collage
->>>>>>> daaea3dc5ba70ffe42904baa34d9b53c9cf36370
+---
+
+## 🛠 Technologies Used
+
+- Frontend: React, Vite ⚛️  
+- Database: Microsoft SQL Server 🗄️  
+- Backend: (Optional) Node.js / Express (if used) ⚙️  
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+- Node.js installed on your machine 🖥️  
+- SQL Server installed and configured 🗄️  
+
+### Installation
+
+1. Clone this repository:  
+   ```bash
+   git clone https://github.com/920Rajitha/School_Site.git
